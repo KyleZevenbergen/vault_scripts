@@ -1,0 +1,5 @@
+Namespace,Role Name,Bound Claims,Auth Method
+admin/0005/,demorole,"{'namespace_id': ['12562', '1111', 'group7']}",jwt
+admin/namespace1/,demorole2,"{'namespace_id': ['77', '888', 'weird_group#name']}",jwt
+admin/namespace1/childns_one/,demorole_7_child,"{'namespace_id': ['sweet', 'child', 'of', 'mine']}",jwt
+admin/namespace2/,roses,"{'namespace_id': ['sweet', 'child', 'of', 'mine']}",jwt
